@@ -1,0 +1,4 @@
+Bundle-Name: sain-ckeditor-contributor
+Bundle-SymbolicName: com.sain.liferay.frontend.editor.ckeditor
+Bundle-Version: 1.0.0
+Export-Package: com.sain.liferay.frontend.editor.ckeditor.api
